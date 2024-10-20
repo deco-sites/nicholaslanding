@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://nicholaslanding-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "58a4424ade23c6d786d0e0ccdb551dbb22f092f892da1bf9d1eacbc8887e2c617b10019819bc3003401bfcaa658a78edd1c6df2f5df429a6c59771eb37471ad98df858634ee11d5096a4765b76b1b47187dbecdf882be2bb8bd61ee95453f83a1a0a585c7448fff25af22d8994fe78d656c1a64d417a5cb8afd99e2f12af31658da93de05644001a89c3976b7dc7b16ea31eed48db1d3fcbf58b7171106b74b1239b304b576eaae5ccfdcc5b3a7fb2c8835b80b88296a5ce0f157652d026b1ffeedd6b09fad7fe65fa52196be61530a9dca21ad1926f05a1b54d9fb1265feeb9"
+  }
+}
